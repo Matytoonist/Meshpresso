@@ -11,4 +11,4 @@ _A **Meshtastic Client** (poorly) written in **Java**_
 ## Why do this to yourself?
 * because I want to see if I can
 * because it was ***the reasonable thing to do*** ~~in order to do ***the unreasonable part of this project*** properly later on~~ :3
-* because _wouldn't it be cool?
+* because _wouldn't it be cool?_
